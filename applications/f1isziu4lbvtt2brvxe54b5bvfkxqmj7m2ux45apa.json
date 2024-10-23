@@ -35,11 +35,11 @@
     "Weekly Allocation": "400TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-10-23 18:13:06.864842969 UTC",
     "Validated By": "jamerduhgamer",
     "Active": true,
-    "Updated At": "2024-10-23 18:13:06.864847413 UTC",
+    "Updated At": "2024-10-23 18:15:01.964965857 UTC",
     "Active Request ID": "814e401b-62f4-4a5d-8aba-fe564baaf9fd",
     "On Chain Address": "f1isziu4lbvtt2brvxe54b5bvfkxqmj7m2ux45apa",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-10-23 18:13:06.864849293 UTC",
       "Updated At": "2024-10-23 18:13:06.864850673 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "500TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "jamerduhgamer",
+          "Signing Address": "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy",
+          "Created At": "2024-10-23 18:15:00.231000000 UTC",
+          "Message CID": "bafy2bzacebqody6pe546gt3o36hhys3ofoapbdg37xorntwdx7p6d4fnjrtl6"
+        }
+      ]
     }
   ]
 }
