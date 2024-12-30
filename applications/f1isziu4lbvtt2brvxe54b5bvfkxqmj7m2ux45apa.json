@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2024-10-23 18:13:06.864842969 UTC",
+    "Validated At": "2024-12-30 22:53:38.407587372 UTC",
     "Validated By": "jamerduhgamer",
     "Active": true,
-    "Updated At": "2024-10-23 18:15:01.964965857 UTC",
-    "Active Request ID": "814e401b-62f4-4a5d-8aba-fe564baaf9fd",
+    "Updated At": "2024-12-30 22:53:38.407583414 UTC",
+    "Active Request ID": "64aff956-a3af-4c84-b602-7db31a22e2e8",
     "On Chain Address": "f1isziu4lbvtt2brvxe54b5bvfkxqmj7m2ux45apa",
     "Multisig Address": "false",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy",
           "Created At": "2024-10-23 18:15:00.231000000 UTC",
           "Message CID": "bafy2bzacebqody6pe546gt3o36hhys3ofoapbdg37xorntwdx7p6d4fnjrtl6"
+        }
+      ]
+    },
+    {
+      "ID": "64aff956-a3af-4c84-b602-7db31a22e2e8",
+      "Request Type": "Refill",
+      "Created At": "2024-12-30 22:51:07.545943485 UTC",
+      "Updated At": "2024-12-30 22:51:07.545944645 UTC",
+      "Active": false,
+      "Allocation Amount": "1PiB",
+      "Signers": [
+        {
+          "Github Username": "jamerduhgamer",
+          "Signing Address": "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy",
+          "Created At": "2024-12-30 22:53:37.213000000 UTC",
+          "Message CID": "bafy2bzacea236xked5dzcupjsy4xpzuvamkxr3i6tts7milpudvy43xbbvfes"
         }
       ]
     }
